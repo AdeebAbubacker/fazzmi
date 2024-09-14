@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "651634375308",
+    "project_id": "fazzmi-a87a5",
+    "storage_bucket": "fazzmi-a87a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651634375308:android:ef3d83f27e77a651a699a9",
+        "android_client_info": {
+          "package_name": "com.fazzmi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651634375308-6gj0tp87fhf08d433romkjsr1vii8f3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fazzmi.app",
+            "certificate_hash": "7c54d687cdfb2f641db4612efff0ae8914241653"
+          }
+        },
+        {
+          "client_id": "651634375308-ji1qfjio21bh9ddiqttfs6gdff6pem1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fazzmi.app",
+            "certificate_hash": "797d179e4fc186c7bffd5322b0bc8f2ef65151ab"
+          }
+        },
+        {
+          "client_id": "651634375308-nbj3mg1bb7f1gpsmofh6l8t9o8h1jflq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fazzmi.app",
+            "certificate_hash": "0b1858a3fa6109253c3762426795175ccf564b39"
+          }
+        },
+        {
+          "client_id": "651634375308-2idr9gvq3eai4camf203fp2is1cq8vfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLzr4sD1lZgzh5UMmU0Fe9T34I8gMPnY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651634375308-2idr9gvq3eai4camf203fp2is1cq8vfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

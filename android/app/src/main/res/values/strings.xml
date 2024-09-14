@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fazzmi</string>
+    <string name="facebook_app_id">158513637022498</string>
+    <string name="fb_login_protocol_scheme">fb158513637022498</string>
+    <string name="facebook_client_token">2825725ef5e84220546183c8d71d3c4e</string>
+</resources>
